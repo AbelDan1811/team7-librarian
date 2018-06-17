@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+.content {
+	top : 50px;
+	left : 250px;
+	padding-top: 10px;
+	padding-left: 20px;
+	z-index: 1;
+	height : 100%;
+	width : 86%;
+	position: fixed;
+
+}
+
+.hello { 
+	text-align : right
+}
+

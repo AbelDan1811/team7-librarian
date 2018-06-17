@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+li {
+	padding : 10px;
+	cursor: default;
+}
+
+button {
+	margin-bottom: 5px !important;
+}

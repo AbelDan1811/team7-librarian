@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+table ,th, td {
+	
+}
+
+th, td {
+	padding : 15px !important;
+	font-size : 18px !important;
+}
